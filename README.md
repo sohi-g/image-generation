@@ -19,6 +19,7 @@ In the case of C-GANs, the generation process is conditioned on additional input
 
 ## Dataset
 Dataset comprises of ~20K dog images and 120 different breed categories.
+
 Source: https://www.kaggle.com/competitions/generative-dog-images/data
 
 ## Training
